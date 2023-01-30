@@ -1,0 +1,19 @@
+#insta-icon{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 0;
+}
+#icons{
+    margin-top: 10px;
+}
+#icono-left{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5px;
+}
+#icono-left:hover{
+    cursor: pointer;
+}
+#icono-rigth:hover{
+    cursor: pointer;
+}
