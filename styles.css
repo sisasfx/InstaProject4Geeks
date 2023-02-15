@@ -1,3 +1,4 @@
+
 #insta-icon{
     display: flex;
     justify-content: flex-end;
@@ -16,4 +17,7 @@
 }
 #icono-rigth:hover{
     cursor: pointer;
+}
+#dropdownUl{
+    margin-left: 2rem;
 }
